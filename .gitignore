@@ -1,0 +1,16 @@
+# Node / React
+node_modules/
+dist/
+build/
+.env
+
+# Python virtual environment
+env/
+venv/
+__pycache__/
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
